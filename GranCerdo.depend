@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1656713380 source:c:\users\lucio pipo\desktop\lucio\facultad\laboratorio de computacion i\examen\tpbackup\grancerdo\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"rlutil.h"
+
+1656446401 c:\users\lucio pipo\desktop\lucio\facultad\laboratorio de computacion i\examen\tpbackup\grancerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
